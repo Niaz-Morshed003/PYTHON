@@ -1,0 +1,5 @@
+Text=input("String:")
+upper=Text.upper()
+print("Upper :",upper)
+lower=upper.lower()
+print("lower :",lower)

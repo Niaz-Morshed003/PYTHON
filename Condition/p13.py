@@ -1,0 +1,12 @@
+a=float(input("value of a = "))
+b=float(input("value of b ="))
+option=int(input("value of option = "))
+if option==1 : print("a+b = ",a+b)
+elif option==2:print("a-b =",a-b)
+elif option == 3 : print ("a*b = ",a*b)
+elif option == 4 :
+    case=int(input("case="))
+    if case==1:print("a/b =",a/b)
+    elif case==2 : print("a/b = ",a%b)
+    else:print("invalid")
+else: ("invalid")

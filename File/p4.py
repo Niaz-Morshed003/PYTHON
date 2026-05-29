@@ -1,0 +1,6 @@
+file=open("Niaz's file","a")
+file.write("\n")
+file.write("CGPA\n")
+file.write("Papers\n")
+file.write("GRE\n")
+file.close()

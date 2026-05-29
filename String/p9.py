@@ -1,0 +1,6 @@
+text=input("String:")
+ch=input("Character:")
+text=text.upper()
+ch=ch.upper()
+count=text.count(ch)
+print("Frequency is :",count)
