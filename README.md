@@ -1,23 +1,21 @@
-# Python Programming Repository :
+# Python Programming
 
-Welcome to my Python repository. This section catalogs my implementation of core operational constructs, data manipulation techniques, and architectural collections leveraging the dynamic, clean syntax paradigms of Python.
+My Python fundamentals — 28 small programs covering control flow,
+collections, functions and files. Written for readability, the way Python
+is meant to be written.
 
----
+## What's inside
 
-### Repository Structure and Topic Breakdown
+- `Condition` — if-elif-else decisions
+- `loop` — for and while practice
+- `Pattern` — shapes with nested loops
+- `List and Tuple` — changeable lists vs fixed records
+- `Set and Dictionaries` — unique items and key-value maps
+- `String` — length, slicing, small parsing tasks
+- `FUNCTION` — reusable functions with arguments
+- `File` — reading and writing files
 
-The codebase is organized into dedicated directories covering core execution flows, modular blocks, and native collections:
+## How to run
 
-*   **Core Control Flow and Scripting:**
-    *   `Condition`: Logical structural execution trees utilizing standard if-elif-else flows.
-    *   `loop`: Automated task repetition frameworks via native for and while loop scopes.
-    *   `Pattern`: Geometrical and character matrix outputs driven by structural looping scripts.
-
-*   **Native Data Collections (Built-in Structures):**
-    *   `List and Tuple`: Sequential array objects focusing on both mutable data grids and immutable state records.
-    *   `Set and Dictionaries`: Unordered unique element groups along with high-speed key-value mapping structures.
-    *   `String`: Native textual operations, slicing techniques, and parsing utilities.
-
-*   **Functional Blocks and IO Streams:**
-    *   `FUNCTION`: Reusable execution scopes utilizing local argument variables and functional definitions.
-    *   `File`: Reading and writing system resources smoothly using local stream handling wrappers.
+```bash
+python "String/p1.py"
